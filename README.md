@@ -19,8 +19,8 @@
 ### 2016-10-20
 - [x] Golang基本语法、函数值、闭包、函数值作为的函数形参返回和值；
 - [x] Golang基本语法、结构体方法、接口、异常；
-- [x] Golang基础包、Reader、http；
-
+- [x] Golang基础包、Reader、http、image；
+- [x] Golang特性、goroutine；
 
 
 
