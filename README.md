@@ -22,6 +22,6 @@
 - [x] Golang基础包、Reader、http、image；
 - [x] Golang特性、goroutine、channel、select、range；
 
-### 2016-10-21
+### 2016-10-24
 - [x] Golang特性、锁同步sync.Mutex；
 
